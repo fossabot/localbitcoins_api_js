@@ -1,4 +1,6 @@
 # localbitcoins_api_js
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fluxcium%2Flocalbitcoins_api_js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fluxcium%2Flocalbitcoins_api_js?ref=badge_shield)
+
 ### Scientia is lux principium™
 
 This library of code is build at this moment by a novice javascipt and opensource developer therefor if you choose to use it you do so at your own risks. I will do my best effort to implement the best programing pratice I am aware of but I am learning continualy and the fact that I am not an experience developer may result in some security issue please make sure you use extrem caution if your are dowloading this library of code in the early phase of its inception. you may report any security issue to luxcium@neb401.com
@@ -8,3 +10,6 @@ LocalBitcoins.com is a peer-to-peer platform service that enables its users to e
 This library of code is maintained by Benjamin Vincent Kasapoglu, it is constructed independently of Localbitcoin.com (LBC web site) and does not reflect any endorsement or approval, from LBC web site, of any kind in any way, shape, or form under any circumstances or conditions. Therefore Localbitcoin.com cannot offer any warranty, or guarantee, expressed or implied about this librairy of code. This librairy of code is provided as is and you may be required to create an account on LBC web site to use it. If you choose to do so you will be required to accept Localbitcoins.com Services Terms and Privacy policy in order to use this librairie of code. please visit https://localbitcoins.com/terms_of_service/?ch=d3ex and https://localbitcoins.com/privacy_policy/?ch=d3ex in order to read, understand and accept their condition and create an account. 
 
 To be able to use this library of code you will be required to create you own API key. The primary way to authenticate with LBC web site API is using HMAC. HMAC is based on a secret code that only you and LocalBitcoins knows. This secret is used to sign your API requests, to ensure that it's really you who is making the requests. In order to get acces you may register using this affiliate referring link : https://localbitcoins.com/register/?ch=d3ex
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fluxcium%2Flocalbitcoins_api_js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fluxcium%2Flocalbitcoins_api_js?ref=badge_large)
