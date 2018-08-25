@@ -1,0 +1,19 @@
+{
+  "name": "localbitcoins_api_js",
+  "version": "0.0.0",
+  "description": "'The localbitcoins_api_js is created for programmers who want to create applications to interface with LocalBitcoins using JavaScript.'",
+  "main": "localbitcoins_api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luxcium/localbitcoins_api_js.git"
+  },
+  "author": "Benjamin Vincent Kasapoglu",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/luxcium/localbitcoins_api_js/issues"
+  },
+  "homepage": "https://github.com/luxcium/localbitcoins_api_js#readme"
+}
